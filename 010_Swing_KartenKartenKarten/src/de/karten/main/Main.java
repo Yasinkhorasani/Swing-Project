@@ -7,7 +7,7 @@ import de.karten.frontend.MeineKartenApp;
  * 
  * Methodeaufruf für ein anonymes Objekt
  * 
- * @author Alfa
+ * @author Yasin
  *
  */
 public class Main {
